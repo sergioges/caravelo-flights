@@ -6,4 +6,8 @@ export default defineConfig({
   base: "/caravelo-flights/",
   plugins: [vue()],
   server: {},
+  test: {
+    globals: true,
+    environment: "jsdom",
+  },
 });
