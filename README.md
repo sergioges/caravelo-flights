@@ -2,11 +2,16 @@
 
 This project was created with Vite and Vue 3 using script setup syntax. It provides a flight subscription management interface for Caravelo, featuring multilingual support, quota management, and API response simulation.
 
+online access --> https://sergioges.github.io/caravelo-flights/
+
 ## Main Scripts
 
 - `npm run dev`: Start the development server
 - `npm run build`: Build the application for production
 - `npm run preview`: Preview the production build
+- `npm run test`: Run unit tests
+- `npm run test:watch`: Run unit tests in watch mode
+- `npm run deploy`: Deploy the application to GitHub Pages
 
 ## Technologies & Dependencies
 
@@ -16,6 +21,8 @@ This project was created with Vite and Vue 3 using script setup syntax. It provi
 - **Pinia**: State management solution
 - **Vue I18n**: Internationalization
 - **Material Design Icons**: Icon library via the `mdi` class
+- **Vitest**: Unit testing framework
+- **GitHub Pages**: For online deployment
 
 ## Features
 
