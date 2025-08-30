@@ -2,7 +2,7 @@
 
 This project was created with Vite and Vue 3 using script setup syntax. It provides a flight subscription management interface for Caravelo, featuring multilingual support, quota management, and API response simulation.
 
-online access --> https://sergioges.github.io/caravelo-flights/
+Online access: <a href="https://sergioges.github.io/caravelo-flights/" target="_blank">https://sergioges.github.io/caravelo-flights/</a>
 
 ## Main Scripts
 
